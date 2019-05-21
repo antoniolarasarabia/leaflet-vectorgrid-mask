@@ -1,0 +1,48 @@
+{
+  "_from": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+  "_id": "leaflet-vectorgrid-mask@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/leaflet-vectorgrid-mask",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "leaflet-vectorgrid-mask@git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+    "name": "leaflet-vectorgrid-mask",
+    "escapedName": "leaflet-vectorgrid-mask",
+    "rawSpec": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+    "saveSpec": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+    "fetchSpec": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git#ad7126ac505b280451db2fa079852b61d6e53219",
+  "_spec": "leaflet-gridlayer-mask@git+git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git",
+  "_where": "/home/antonio/Projects/vandersat/FrontSat",
+  "author": {
+    "name": "Antonio"
+  },
+  "bugs": {
+    "url": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Leaflet VectorGridLayer with mask effect",
+  "homepage": "https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask#readme",
+  "keywords": [
+    "leaflet"
+  ],
+  "license": "MIT",
+  "main": "leaflet-vectorgrid-mask.js",
+  "name": "leaflet-vectorgrid-mask",
+  "peerDependencies": {
+    "leaflet": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniolarasarabia/leaflet-vectorgrid-mask.git"
+  },
+  "version": "1.0.0"
+}
