@@ -1,0 +1,48 @@
+{
+  "_from": "git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+  "_id": "leaflet-gridlayer-mask@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/leaflet-gridlayer-mask",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "leaflet-gridlayer-mask@git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+    "name": "leaflet-gridlayer-mask",
+    "escapedName": "leaflet-gridlayer-mask",
+    "rawSpec": "git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+    "saveSpec": "git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+    "fetchSpec": "https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git#ad7126ac505b280451db2fa079852b61d6e53219",
+  "_spec": "leaflet-gridlayer-mask@git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git",
+  "_where": "/home/antonio/Projects/vandersat/FrontSat",
+  "author": {
+    "name": "frogcat"
+  },
+  "bugs": {
+    "url": "https://github.com/antoniolarasarabia/leaflet-tilelayer-mask/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Leaflet GridLayer with mask effect",
+  "homepage": "https://github.com/antoniolarasarabia/leaflet-tilelayer-mask#readme",
+  "keywords": [
+    "leaflet"
+  ],
+  "license": "MIT",
+  "main": "leaflet-gridlayer-mask.js",
+  "name": "leaflet-gridlayer-mask",
+  "peerDependencies": {
+    "leaflet": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniolarasarabia/leaflet-tilelayer-mask.git"
+  },
+  "version": "1.0.0"
+}
